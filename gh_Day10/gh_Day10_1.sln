@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gh_Day10_1", "gh_Day10_1.csproj", "{3D1FDF16-335B-4CE8-878A-9509058FB581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory", "Inventory.csproj", "{3D1FDF16-335B-4CE8-878A-9509058FB581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gh_Day10_2", "..\gh_Day10_2\gh_Day10_2.csproj", "{BBFEFFB2-E3C1-4824-B562-DF0B94748DAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JosephusPermutation", "..\gh_Day10_2\JosephusPermutation.csproj", "{BBFEFFB2-E3C1-4824-B562-DF0B94748DAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
