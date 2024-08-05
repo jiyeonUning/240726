@@ -20,6 +20,7 @@
              7. Food : Item                                                                                */
 
 
+
     public class gh01
     {
         public class itemNum
@@ -70,7 +71,7 @@
                     {
                         // 랜덤한 아이템 획득
                         int randItem = rand.Next();
-                        randItem = itemNum.ItemNum(); // 아이템 자식 클래스에 어떻게 숫자를 매기나요?.. (배열?)
+                        // randItem = itemNum.ItemNum(); 아이템 자식 클래스에 어떻게 숫자를 매기나요?.. (배열?)
                     }
 
                     else // 위 if와 else if 외 숫자를 입력했을 때(=1~9 숫자),
@@ -79,6 +80,8 @@
                     }
                 }
             }
+
         }
+
     }
 }
